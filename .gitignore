@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Respaldo local del modelo anterior
+respaldo_modelo_viejo/
